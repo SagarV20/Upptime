@@ -4,7 +4,7 @@ repo: Upptime # The name of this repository
 
 sites:
   - name: Made & Modern
-    url: https://mam-portal-staging.web.app/login
+    url: https://mam-portal-staging.web.app1/login
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
