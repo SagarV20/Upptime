@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/mam-portal-staging.web.app1",
     "slug": "made-and-modern",
     "status": "down",
-    "uptime": "0.17%",
+    "uptime": "0.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 164,
     "timeDay": 0,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-04-02": 184,
+      "2022-04-03": 181,
+      "2022-04-02": 1440,
       "2022-04-01": 1440,
       "2022-03-31": 1047
     }
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 256,
-    "timeWeek": 194,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "time": 193,
+    "timeDay": 191,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   }
 ]
